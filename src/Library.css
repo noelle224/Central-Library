@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.list{
+ padding: 30px;
+ border: 1px solid lightgray;
+ margin: 30px;
+ list-style: none;
+}
+
+.image{
+    height: 250px;
+    width: 250px;
+}
+
+.update{
+    height: 35px;
+    width: 70px;
+    margin: 5px;
+    background-color: lightgreen;
+    border: 1px solid lightgray;
+}
+
+.delete{
+    height: 35px;
+    width: 70px;
+    margin: 5px;
+    background-color: lightcoral;
+    border: 1px solid lightgray;
+}

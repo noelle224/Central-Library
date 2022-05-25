@@ -1,0 +1,19 @@
+.Search{
+    margin-left: 40%;
+}
+
+.searchinput{
+    border: 1px solid lightgray;
+    height: 35px;
+    width: 200px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.searchbutton{
+    height: 45px;
+    width: 70px;
+    padding: 5px;
+    border: 1px solid lightgray;
+    background-color: lightsalmon;
+}

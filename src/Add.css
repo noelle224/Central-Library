@@ -1,0 +1,28 @@
+.Create{
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 30px;
+    border: 1px solid lightcoral;
+    border-radius: 20px;
+    margin-left: 500px;
+}
+
+.inp{
+    height: 35px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+.addbutton{
+    height: 35px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 200px;
+    margin: 20px;
+    margin-left: 100px;
+    background-color: lightgreen;
+}

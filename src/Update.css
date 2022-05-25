@@ -1,0 +1,12 @@
+.Update{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgb(255, 134, 134);
+    padding: 30px;
+    margin: 40px;
+}
+
+.Updateform{
+    display: flex;
+    flex-direction: column;
+}
